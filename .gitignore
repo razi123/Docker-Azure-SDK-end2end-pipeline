@@ -1,0 +1,4 @@
+**/az-yelp
+*.csv
+secret.py
+*.yaml
